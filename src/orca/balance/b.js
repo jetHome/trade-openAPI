@@ -2,7 +2,7 @@
 const { Connection, PublicKey } = require('@solana/web3.js');
 
 // 更换成你自己的钱包地址
-const walletAddress = 'EWNPyWc2KEzMSpiaN5AbMURFBvP5fcYjNSM6e6fey5rn';
+const walletAddress = 'CtBZg1h6meuHQsRNfbE4F2rY1pd9uudUPVVe61TvtvC';
 // Mainnet Beta 的 RPC URL
 const networkUrl = 'https://api.mainnet-beta.solana.com';
 

@@ -22,7 +22,7 @@ function getBalance() {
 
     // Obtain the SOL balance
     // Use the getBalance method from the Connection class
-    //pub:EWNPyWc2KEzMSpiaN5AbMURFBvP5fcYjNSM6e6fey5rn
+    //pub:CtBZg1h6meuHQsRNfbE4F2rY1pd9uudUPVVe61TvtvC
     //sec:
     const sol_balance = connection.getBalance(keypair.publicKey);
     sol_balance.then(it => {
